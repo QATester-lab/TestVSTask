@@ -1,8 +1,13 @@
-dsfa
+2.5h - Standard Conversions learning project (API, FB connection)
 
-dasfasdf
+1h - certification and check task for Git and GitHub
 
+1h - finished task for Git and GitHub
 
+1h - Watched video abot testing Internet shops https://www.dropbox.com/scl/fi/z11qdy4bh4274outpou9k/2018-09-18-17.00-1..mp4?dl=0&oref=e&r=ABSKt0unD0PCvOoTB1tsLZI2HjsA1E-b81PEBrO2QWBgbmI08Ldmg2liSy5vxbfD3qNkSyD1QjUkF7X5NvPVE9ri0ZKrkDZaYm8ILsf7V0_L7Rz4WgspID9ReS6IxckqEoiUaLsMxDVw4BQfC3tCUtCSOuePLTBQNUDdcJBCYbR5zucmEjQmXRMQYae_CRNbwQM&sm=1
 
+1.5h - Watched video about Magento
+https://www.dropbox.com/scl/fi/qctcyrwyotg1g6fha4p6p/2018-09-20-17.00-2..mp4?dl=0&oref=e&r=ABT7GSr7W1NS4ea9dywySOAmi_q8G3JAHi7HFTCfBFNiqBnnb_X8RRyNpNulsNraVquh92UHL_IImYZDXaW3Js-xUlBSMLn2Vrq_HUIswKkRqaPBxy_ZAoDezyyoXbUD7Ng9i0PQG7g8z-2lEImfPja89wQrfNtO3WOWpOmd-yICyCpBnI1dQrzjPgh2LmX2eYU&sm=1
 
-sdfads
+1h - Check materials about Git and Magento in the internet (how to install, work with admin panel - will setup for home learning)
+https://habr.com/ru/post/338866/
